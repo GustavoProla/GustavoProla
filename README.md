@@ -30,6 +30,10 @@
 
 ## Stats do GitHub
 
-<img  height="180px" src="https://github-readme-stats.vercel.app/api?username=GustavoProla&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/><img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProla&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoProla&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="GustavoProla github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProla&layout=compact&hide_border=true&title_color=e9c044&text_color=e9c044&bg_color=0d1117" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoProla&bg_color=0d1117&color=e9c044&line=dc1919&point=CE7E00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
