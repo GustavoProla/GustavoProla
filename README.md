@@ -1,9 +1,9 @@
 <img align="right" height="500px" src="lain.jpg"/>
 <h1 align="center">Gustavo Prola</h1>
 
-- Estudante do Ensino médio (SenacRS)
-- cursando bagulho do senac
-- focado em desenvolver sites atualmente
+- Estudante no 3º Ano do Ensino médio (SenacRS)
+- Cursando desenvolvimento Web e Mobile
+- Focado em desenvolver sites atualmente
 
 ## Contatos/Social
 <a href="https://www.linkedin.com/in/gustavo-prola-4508b0268/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
