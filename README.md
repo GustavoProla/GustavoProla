@@ -1,5 +1,16 @@
 <h1 align="center">Gustavo Prola</h1>
 
 <p align="center">
-  <img src="extensao_divergencia.jpg" alt="alo" height='300px' width='600px'/>
+  <img src="" alt="alo" height='300px' width='600px'/>
 </p>
+
+## Skills
+<img src="" height="50px" />
+
+## Back-end
+
+## Front-End
+
+## Database
+
+## Stats do GitHub
