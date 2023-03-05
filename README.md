@@ -6,4 +6,4 @@
 
 ##Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProla&hide_progress=true)](https://github.com/GustavoProla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProla&layout=compact)](https://github.com/GustavoProla/github-readme-stats)
